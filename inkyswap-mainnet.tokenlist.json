@@ -158,6 +158,14 @@
       "name": "Shroomy",
       "decimals": 18,
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/6802871be52e8764d2494beb6aa10b135991762370b037f9c228f573ddcb3eeb.jpg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "symbol": "USD₮0",
+      "name": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4489c579765d8cff22a4469f97bbccd585b0f95a7e4f2c116eda66babc3783a1.jpg"
     }
   ]
 }
